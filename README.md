@@ -5,7 +5,7 @@
 - 🔭 Now I work as an engineer
 - 🌱 I'm currently studying data analytics
 - 📫 How to contact me: 1natasha_91@mail.
-- 😄 Hobbies: Swimming, traveling, Spanish, reading books and walking the dog
+- 😄 Hobbies: swimming, traveling, Spanish, reading books and walking the dog
 
 <!---
 NatalyaP1991/NatalyaP1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
